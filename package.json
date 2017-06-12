@@ -1,7 +1,7 @@
 {
-  "name": "react-slick",
+  "name": "react-slick-animated-goto",
   "version": "0.14.11",
-  "description": " React port of slick carousel",
+  "description": " React port of slick carousel with animated slickGoTo",
   "main": "./lib",
   "scripts": {
     "start": "gulp server",
@@ -14,7 +14,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/akiran/react-slick"
+    "url": "https://github.com/hughlomas/react-slick"
   },
   "keywords": [
     "slick",
@@ -91,7 +91,7 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/akiran/react-slick/issues"
+    "url": "https://github.com/hughlomas/react-slick/issues"
   },
-  "homepage": "https://github.com/akiran/react-slick"
+  "homepage": "https://github.com/hughlomas/react-slick"
 }

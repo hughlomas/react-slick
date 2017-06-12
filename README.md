@@ -5,6 +5,10 @@
 
 Carousel component built with React. It is a react port of [slick carousel](http://kenwheeler.github.io/slick/)
 
+### Notice
+
+This fork has been created to incorporate a pull request that supports the animation parameter of slickGoTo(). As of this writing, the basic `react-slick` does not pass any animation parameters to the underlying slick library.
+https://github.com/akiran/react-slick/pull/579
 
 
 ### Installation
